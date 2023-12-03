@@ -6,24 +6,24 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "tuzumkuru"
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
   author = "Tolga Uzun"
-  info = "Full Stack DevOps and Magician"
+  info = "Full Stack Engineer :D"
   description = "Tolga Uzun's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  #gravatar = "tolgauzun@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2023
 
   enableTwemoji = true
 
@@ -45,17 +45,17 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/tuzumkuru/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://gitlab.com/tuzumkuru/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/tuzumkuru/"
 
 # Menu links
 [[menu.main]]
