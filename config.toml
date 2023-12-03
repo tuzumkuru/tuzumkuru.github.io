@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "Tolga Uzun"
-  info = "Full Stack Engineer :D"
+  info = "Full Stack Engineer"
   description = "Tolga Uzun's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
