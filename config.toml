@@ -13,8 +13,8 @@ style = "github-dark"
 
 [params]
   author = "Tolga Uzun"
-  info = "Full Stack Engineer"
-  description = "Tolga Uzun's personal website"
+  info = "Full Stack Robotics Engineer"
+  description = "Tolga Uzun's Personal Website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "tolgauzun@gmail.com"
