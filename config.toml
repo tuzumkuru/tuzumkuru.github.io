@@ -52,10 +52,10 @@ style = "github-dark"
   weight = 2
   url = "https://gitlab.com/tuzumkuru/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/tuzumkuru/"
+  name = "LinkedIn"
+  icon = "linkedin"
+  icon_pack = "fa"
+  link = "https://linkedin.com/in/tolgauzun"
 
 # Menu links
 [[menu.main]]
