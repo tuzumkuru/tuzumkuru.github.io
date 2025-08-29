@@ -19,9 +19,7 @@ Accomplished Robotics Engineer with over 12 years of experience leading the end-
 
 _Jan 2012 - Present_
 
-Technical Advisor (Remote)
-
-Sep 2022 - Present
+**Technical Advisor (Remote)**  _Sep 2022 - Present_
 
 -   Provide expert guidance to the engineering team on system architecture, electronics design, and software development for next-generation robotics systems.
     
@@ -30,9 +28,7 @@ Sep 2022 - Present
 -   Assist in troubleshooting and resolving complex technical challenges in ongoing robotics projects.
     
 
-Head of Electronics & Software
-
-Jan 2015 - Sep 2022
+**Head of Electronics & Software**  _Jan 2015 - Sep 2022_
 
 -   Led and mentored a team of 10 engineers, directing project execution and delivering 3 major medical robotics products from concept to launch.
     
@@ -45,9 +41,7 @@ Jan 2015 - Sep 2022
 -   Established and initially managed the aftersales department to create robust customer support protocols, significantly improving customer satisfaction.
     
 
-Robotics Engineer
-
-Jan 2012 - Dec 2014
+**Robotics Engineer**  _Jan 2012 - Dec 2014_
 
 -   As one of the company's founding engineers, played an integral role in building the technical foundation and product line from the ground up.
     
