@@ -16,7 +16,7 @@ style = "github-dark"
   info = "System Design Engineer"
   description = "Tolga Uzun's Personal Website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar_tolga.png"
   #gravatar = "tolgauzun@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
