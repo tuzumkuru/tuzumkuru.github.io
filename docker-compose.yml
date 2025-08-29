@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      # Mount the entire project directory into the container
+      - .:/src
+    ports:
+      # Map port 1313 on the host to 1313 in the container
+      - "1313:1313"
+    # Keep the container running and watch for file changes
+    tty: true
