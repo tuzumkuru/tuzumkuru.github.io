@@ -1,13 +1,13 @@
 # Use a Node.js base image to get npm and a stable OS
-FROM node:20-bullseye-slim
+FROM node:22.18.0-bookworm-slim
 
 # Set the Hugo version from your GitHub Actions workflow
-ARG HUGO_VERSION=0.124.1
+ARG HUGO_VERSION=0.149.0
 # Set an env var for Hugo version
 ENV HUGO_VERSION=${HUGO_VERSION}
 
 # Set Dart Sass version for direct download
-ARG SASS_VERSION=1.75.0
+ARG SASS_VERSION=1.91.0
 
 # Install dependencies needed for Hugo
 # Install dependencies, Hugo, and then clean up in a single layer to optimize image size
